@@ -96,9 +96,10 @@ def get_response(user_input: str) -> str:
     return random.choice(SMALL_TALK)
 
 
-# =========================
+
+
 # Application Entry Point
-# =========================
+
 
 def main() -> None:
     """
