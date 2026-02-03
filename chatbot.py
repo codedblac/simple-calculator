@@ -2,9 +2,9 @@ import random
 from typing import Dict, List
 
 
-# =========================
+
 # Configuration & Data
-# =========================
+
 
 GREETINGS: List[str] = [
     "Hello!",
@@ -55,9 +55,8 @@ GREETING_KEYWORDS = {"hello", "hi", "hey", "greetings"}
 FAREWELL_KEYWORDS = {"bye", "goodbye", "see you"}
 
 
-# =========================
+
 # Core Logic
-# =========================
 
 def normalize_text(text: str) -> str:
     """
