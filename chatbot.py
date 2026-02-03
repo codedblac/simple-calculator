@@ -14,6 +14,9 @@ GREETINGS: List[str] = [
     "Howdy!",
 ]
 
+
+
+
 FAREWELLS: List[str] = [
     "Goodbye!",
     "See you later!",
