@@ -6,6 +6,7 @@ from typing import Dict, List
 # Configuration & Data
 
 
+
 GREETINGS: List[str] = [
     "Hello!",
     "Hi there!",
